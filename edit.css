@@ -1,0 +1,27 @@
+body{
+    background: dimgray;
+    display: flex;
+    justify-content: center;
+
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 4em;
+    width: 400px;
+
+    border: 4px rgb(49, 26, 71) solid;
+}
+h1{
+    color: rgb(19, 29, 37);
+}
+
+button{
+    align-self: center;
+    margin-top: 150px;
+    margin-left: -150px;
+
+    margin-bottom: 15px;
+}
